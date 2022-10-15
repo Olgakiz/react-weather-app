@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
       <Weather defaultCity="Kharkiv" />
       <a
-        href=""
+        href="https://github.com/Olgakiz/react-weather-app"
         target="_blank"
         rel="noopener noreferrer"
       >
